@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+*.db
+.DS_Store
+backend/autoencoder_model.h5
+backend/model.joblib
+backend/preprocessor.joblib
+data/transactions.csv
